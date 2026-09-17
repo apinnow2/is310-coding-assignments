@@ -1,0 +1,1 @@
+I used billboard.com/hot100, as my project has to do with trends in music. There are .html, .css and .js files, as well as .woff and .woff2 files that I don't recognize. The website is made by PMX Global, LLC and is powered by WordPress.com VIP.
